@@ -1,0 +1,17 @@
+$mes= "01|Jan"
+$mes+= "`n02|Fev"
+$mes+= "`n03|Mar"
+$mes+= "`n04|Abr"
+$mes+= "`n05|Mai"
+$mes+= "`n06|Jun"
+$mes+= "`n07|Jul"
+$mes+= "`n08|Ago"
+$mes+= "`n09|Set"
+$mes+= "`n10|Out"
+$mes+= "`n11|Nov"
+$mes+= "`n12|Dez"
+Clear-Content -Path ".\SnowFlake Schema\tbMês.txt"
+Add-Content -Value $mes -Path ".\SnowFlake Schema\tbMês.txt"
+
+Write-Host "Tabela mês gerada"
+Pause

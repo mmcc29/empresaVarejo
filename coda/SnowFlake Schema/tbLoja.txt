@@ -1,0 +1,18 @@
+0001|Mesquita
+0002|Andaraí
+0003|Centro Rio de Janeiro
+0012|Gelo seco
+0013|nova iguaçu
+0017|Nilópolis
+0018|Campinas
+0019|Zona Sul
+0020|Arapiraca
+0021|campo grande
+0022|nova
+0023|brasilia
+0024|guarulhos
+0026|nova01
+0027|yetAnotherStore
+0028|Chapecó
+0030|Mato Grosso do Sul
+0031|Bahia

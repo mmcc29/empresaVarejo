@@ -1,0 +1,8 @@
+0001|0012|Galaxy s9 plus
+0004|0016|Mouse 600dpi
+0008|0002|teste
+0009|0013|Lâmpada 70 watts
+0010|0001|Edredom branco
+0011|0001|Toalha de mesa
+0012|0003|peteca
+0013|0001|novoProd01
